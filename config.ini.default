@@ -1,0 +1,6 @@
+
+### redis.host = mac-notice-master-test.uat.kuaishou.com
+### redis.passwd = kwaiuat@(2018
+
+redis.host = 172.33.11.51
+redis.passwd = kwai123test
