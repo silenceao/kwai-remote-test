@@ -1,6 +1,11 @@
 
-### redis.host = mac-notice-master-test.uat.kuaishou.com
-### redis.passwd = kwaiuat@(2018
+### kwai.code = 10873
+### kwai.cname = "王风令"
+### kwai.username = "linlipeng"
+### kwai.email = "linlipeng@kuaishou.com"
 
-redis.host = 172.33.11.51
-redis.passwd = kwai123test
+### redis.host = "mac-notice-master-test.uat.kuaishou.com"
+### redis.passwd = "kwaiuat@(2018"
+
+redis.host = "172.33.11.51"
+redis.passwd = "kwai123test"
